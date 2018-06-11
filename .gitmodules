@@ -1,4 +1,0 @@
-[submodule "retro"]
-	path = retro
-	url = https://github.com/openai/retro
-	branch = develop
